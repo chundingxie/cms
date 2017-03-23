@@ -1,0 +1,32 @@
+<!-- Header
+================================================== -->
+<header>
+    <div class="logo">
+        <a class="smoothscroll" href="#hero"><img alt="" src="__STATIC__/Woo10/images/logo.png"></a>
+    </div>
+
+    <nav id="nav-wrap">         
+        <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show Menu</a>
+        <a class="mobile-btn" href="#" title="Hide navigation">Hide Menu</a>         
+
+        <ul id="nav" class="nav">
+            <li><a href="index.php">首页</a></li>
+            <?php 
+                foreach($nav as $key=>$item){ 
+                    if($item['ispart']!="1"){
+                        continue;
+                    }
+            ?>
+
+                <li><a href="{:U('Article/lists',array('cid'=>$item['id']))}">{$item.name}</a></li>
+            <?php 
+                }
+            ?>
+        </ul> <!-- end #nav -->
+    </nav> <!-- end #nav-wrap -->
+    <ul class="header-social">
+        <!-- <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+        <li><a href="#"><i class="fa fa-google-plus"></i></a></li> -->
+    </ul>
+</header> <!-- Header End -->

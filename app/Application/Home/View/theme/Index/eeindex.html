@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html>
+<include file="Public/header"/>
+<body>
+    <include file="Public/intro"/>
+    <include file="Public/nav"/>
+    <include file="Public/notice"/>
+    <div class="container">
+        <div class="line-big">
+		<?php
+			foreach($result as $item){
+		?>
+                <div class="xs6 padding-top"> 
+                    <div class='panel'>
+                        <div class="panel-head bg-white ">
+                            <strong class="icon-download text-main doc-h3"> {$item['name']}</strong>
+                            <div style="float:right"><a href="#">更多</a></div>
+                        </div>
+                        <div class="panel-body">
+                            <ul class="list-text list-underline list-striped">
+							<?php
+							$arts = $item['li'];
+							if($arts){
+								foreach($arts as $li){
+							?>
+							<li>
+								<span class="date"><?php echo $li['time']; ?></span>
+								<a href="/cms/index.php?m=Home&c=Article&a=info&id=<?php echo $li['id'];?>" class="active"><?php echo $li['title']; ?></a>
+							</li>
+							<?php							
+								}
+							}
+							?>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+			<?php } ?>
+        </div>
+    </div>
+    <include file="Public/footer"/>
+    </body>
+</html>

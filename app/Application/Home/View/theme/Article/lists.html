@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"> <![endif]-->
+<!--[if (gte IE 8)|!(IE)]><!-->
+<html class="no-js" lang="en"> <!--<![endif]-->
+<include file="Public/header"/>
+<body>
+    <include file="Public/nav"/>
+    <include file="Public/intro"/>
+    <include file="Public/curpos"/>
+    <section id="pricing">
+        <div class="row">
+            <ul class="list-text list-underline list-striped">
+                <sikcms:article  limit="20" order="id desc"   >
+                    <li>
+                        <a href="{:U('Article/info',array('id'=>[field:id]))}" class="active">
+                            <div class="row">
+                                <div class="five columns right">[field:title]</div>
+                                <div class="five columns .pull-1 left" style="float: right;text-align: right;">[field:inputtime|date('Y-m-d H:i:s',###)]</div>
+                            </div>
+                        </a>
+                    </li>
+                </sikcms:article>
+            </ul>
+            <br>
+            <ul class="pagination">{$page}</ul>
+        </div>
+    </section>
+    <include file="Public/footer"/>
+</body>
+</html>

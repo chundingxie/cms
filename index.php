@@ -30,4 +30,3 @@ define("RUNTIME_PATH", SITE_PATH . "#runtime/");
 
 //引入框架
 require PROJECT_PATH.'Core3.2.3/ThinkPHP/ThinkPHP.php';
-//require PROJECT_PATH.'Core5.0.0/thinkphp/start.php';

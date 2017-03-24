@@ -1,0 +1,2432 @@
+[ 2017-03-24T22:26:44+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.129889s][吞吐率：7.70req/s] [内存消耗：1,022.79kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:26:54+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.045718s][吞吐率：21.87req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:26:55+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.040431s][吞吐率：24.73req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:26:55+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.042912s][吞吐率：23.30req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:26:56+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.039473s][吞吐率：25.33req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:26:57+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.041886s][吞吐率：23.87req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:26:57+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.048394s][吞吐率：20.66req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:26:58+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.035530s][吞吐率：28.15req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:26:59+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.037055s][吞吐率：26.99req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:16+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.034811s][吞吐率：28.73req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:23+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.038691s][吞吐率：25.85req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:24+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.045228s][吞吐率：22.11req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:25+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.038225s][吞吐率：26.16req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:25+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.043991s][吞吐率：22.73req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:26+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.039840s][吞吐率：25.10req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:27+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.036165s][吞吐率：27.65req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:27+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.048744s][吞吐率：20.52req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:36+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.037243s][吞吐率：26.85req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:37+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.044148s][吞吐率：22.65req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:39+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.032914s][吞吐率：30.38req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:39+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.032863s][吞吐率：30.43req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:40+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.049843s][吞吐率：20.06req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:40+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.038696s][吞吐率：25.84req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:41+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.040311s][吞吐率：24.81req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:42+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.038891s][吞吐率：25.71req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:42+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.037450s][吞吐率：26.70req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:43+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.048448s][吞吐率：20.64req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:43+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.037210s][吞吐率：26.87req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:44+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.038773s][吞吐率：25.79req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:45+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.043229s][吞吐率：23.13req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:45+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.035647s][吞吐率：28.05req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:46+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.039353s][吞吐率：25.41req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:46+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.041883s][吞吐率：23.88req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:27:47+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.037416s][吞吐率：26.73req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:38+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.035127s][吞吐率：28.47req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:38+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.041159s][吞吐率：24.30req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:39+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.055835s][吞吐率：17.91req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:40+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.037436s][吞吐率：26.71req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:40+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.041736s][吞吐率：23.96req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:41+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.062035s][吞吐率：16.12req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:42+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.040081s][吞吐率：24.95req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:42+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.043110s][吞吐率：23.20req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:43+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.034015s][吞吐率：29.40req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:44+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.050176s][吞吐率：19.93req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:45+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.040759s][吞吐率：24.53req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:45+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.044089s][吞吐率：22.68req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:46+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.038793s][吞吐率：25.78req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:48+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.028643s][吞吐率：34.91req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:48+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.036384s][吞吐率：27.48req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:49+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.029448s][吞吐率：33.96req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:50+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.036615s][吞吐率：27.31req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:51+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.038102s][吞吐率：26.25req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:51+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.041832s][吞吐率：23.91req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:52+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.034047s][吞吐率：29.37req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:52+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.034656s][吞吐率：28.85req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:52+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.022469s][吞吐率：44.51req/s] [内存消耗：1,021.85kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:52+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.044719s][吞吐率：22.36req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:53+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.045730s][吞吐率：21.87req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:53+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.030540s][吞吐率：32.74req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:54+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.031867s][吞吐率：31.38req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:55+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.067000s][吞吐率：14.93req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:56+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.023988s][吞吐率：41.69req/s] [内存消耗：1,021.85kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:58+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.024211s][吞吐率：41.30req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:28:59+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.040698s][吞吐率：24.57req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:29:00+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.041418s][吞吐率：24.14req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:29:01+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.036694s][吞吐率：27.25req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:29:02+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.032216s][吞吐率：31.04req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:29:03+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.035020s][吞吐率：28.56req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:29:03+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.046318s][吞吐率：21.59req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:29:04+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.020263s][吞吐率：49.35req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:29:05+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.036083s][吞吐率：27.71req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:29:06+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.036626s][吞吐率：27.30req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:29:06+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.037498s][吞吐率：26.67req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:29:07+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.043112s][吞吐率：23.20req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:29:08+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.038774s][吞吐率：25.79req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:29:09+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.039729s][吞吐率：25.17req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:29:10+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.039037s][吞吐率：25.62req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:29:10+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.038746s][吞吐率：25.81req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:29:11+08:00 ] ::1 ::1 GET /cms/index.php
+[ log ] localhost/cms/index.php [运行时间：0.042465s][吞吐率：23.55req/s] [内存消耗：1,021.94kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/cms/index.php?m=home&c=article&a=lists&cid=14',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:31:42+08:00 ] ::1 ::1 GET /cms/
+[ log ] localhost/cms/ [运行时间：0.021070s][吞吐率：47.46req/s] [内存消耗：1,021.52kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:31:50+08:00 ] ::1 ::1 GET /cms/
+[ log ] localhost/cms/ [运行时间：0.044119s][吞吐率：22.67req/s] [内存消耗：1,021.86kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:31:51+08:00 ] ::1 ::1 GET /cms/
+[ log ] localhost/cms/ [运行时间：0.039604s][吞吐率：25.25req/s] [内存消耗：1,021.86kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:31:52+08:00 ] ::1 ::1 GET /cms/
+[ log ] localhost/cms/ [运行时间：0.035100s][吞吐率：28.49req/s] [内存消耗：1,021.86kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-24T22:31:52+08:00 ] ::1 ::1 GET /cms/
+[ log ] localhost/cms/ [运行时间：0.034886s][吞吐率：28.66req/s] [内存消耗：1,021.86kb] [文件加载：22]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4,id;q=0.2,ms;q=0.2,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|1; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1490538263%7C4KGYAsdnWbEWSBxF3UpZ9D4rb9ANxIMprTKpA7ouvIi%7C46c5308387160b4338a3564fd9fdd3909c9f86aedfafde3f10f034460eedba85; PfI_think_template=theme; uJJ_think_template=theme; PHPSESSID=77sttn7fk8ccq0ihp1ckae2cm4; 6Fg_think_template=theme; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\Program Files (x86)\Ampps\www\cms\app\Core5.0.0\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------

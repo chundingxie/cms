@@ -6,7 +6,7 @@
  * 
  */
 //调试模式
-// define('APP_DEBUG', false);
+define('APP_DEBUG', false);
 // define('NO_CACHE_RUNTIME', true);
 
 //当前目录路径
@@ -26,7 +26,8 @@ define('APP_PATH',PROJECT_PATH.'Application/');
 define('UPLOADS_PATH', './upload_dir/');
 
 //缓存目录
-define("RUNTIME_PATH", SITE_PATH . "#runtime/");
+//define("RUNTIME_PATH", SITE_PATH . "#runtime/");
 
 //引入框架
 require PROJECT_PATH.'Core3.2.3/ThinkPHP/ThinkPHP.php';
+//require PROJECT_PATH.'Core5.0.0/thinkphp/start.php';

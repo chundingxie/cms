@@ -5,6 +5,7 @@ use Home\Controller\CommonController;
 class IndexController extends CommonController {
     
     public function index(){
+		var_dump(APP_DEBUG);
     	$result = array();
     	$field = array("id", "name"); //定义需要调用的字段
         $where = array();

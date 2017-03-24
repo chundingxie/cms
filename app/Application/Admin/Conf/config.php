@@ -7,7 +7,7 @@ $version = require(PROJECT_PATH."Common/Conf/version.inc.php");
 //基础前台配置项
 $array = array(
     'URL_MODEL'        => '0', //URL模式 普通模式 0 PATHINF O 模式 1REWRITE模式	2 兼容模式 	3
-    'show_page_trace' => false,
+    //'show_page_trace' => false,
     //每页显示条数
     'LISTROWS'=>20,
     //默认错误跳转对应的模板文件

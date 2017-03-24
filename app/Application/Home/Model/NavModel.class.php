@@ -45,7 +45,7 @@ class NavModel extends \Think\Model {
      * @param $id 栏目ID
      */
     public function currentPos($id) {
-        $str = '<li><a href="/" class="icon-home">首页</a></li>';
+        $str = '<li><a href="index.php" class="icon-home">首页</a></li>';
         if (!$id && ACTION_NAME=='lists') {
             return $str . '<li><a>全部列表</a></li>';
         }

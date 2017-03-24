@@ -26,7 +26,7 @@ define('APP_PATH',PROJECT_PATH.'Application/');
 define('UPLOADS_PATH', './upload_dir/');
 
 //缓存目录
-//define("RUNTIME_PATH", SITE_PATH . "#runtime/");
+define("RUNTIME_PATH", SITE_PATH . "#runtime/");
 
 //引入框架
 require PROJECT_PATH.'Core3.2.3/ThinkPHP/ThinkPHP.php';
